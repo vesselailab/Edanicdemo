@@ -1,0 +1,25 @@
+# wowma.jp
+
+> Answer pages and guides — each built from a real user question and answered with the product.
+
+## Pages
+- [Pontaパス（旧スマートパスプレミアム）会員はau PAY マーケットで送料無料？対象商品の見分け方](https://wowma.jp/answers/ponta-pass-free-shipping): Pontaパス会員がau PAY マーケットで送料無料になる条件と、対象商品の見分け方を解説。送料がかかるケースやポイント還元の活用法も紹介。
+- [au PAY マーケット「三太郎の日」はいつ？還元率を最大化する買い物のコツ](https://wowma.jp/answers/santaro-no-hi-point-up-tips): au PAY マーケットの「三太郎の日」の開催日と、Pontaポイント還元率を最大にする買い方のコツを解説。Pontaパスや特売との組み合わせ方を紹介します。
+- [【初回限定】au PAY マーケットの新規登録クーポン・特典の取得方法](https://wowma.jp/answers/new-user-coupon-first-benefit): au PAY マーケットに新規登録すると貰えるクーポン・ポイント還元特典の全貌と、その取得手順を解説。Pontaパス無料お試しや初回限定キャンペーンの活用法も紹介します。
+- [au PAY マーケットでキャンセルや返品はできる？誤注文時の対処法とショップ規定](https://wowma.jp/answers/au-pay-market-cannot-cancel-return-reason): au PAY マーケットでのキャンセル・返品は各ショップの規定に依存します。誤注文時の対処法、キャンセル申請のタイミング、返品条件について解説します。
+- [ドコモ・ソフトバンク（非au）ユーザーでもau PAY マーケットでPontaポイントは貯まる？](https://wowma.jp/answers/non-au-users-ponta-points): au以外のキャリア（ドコモ・ソフトバンク）でも、au PAY マーケットは利用可能。au ID登録でPontaポイントが貯まり、Pontaパスで還元率も上げられます。
+- [お買い物ガイド・他社比較｜au PAY マーケットの賢い使い方とポイント活用法](https://wowma.jp/guide/shopping-tips): 2000万点以上の商品とPontaポイント連携が魅力のau PAY マーケット。楽天・Amazon・Yahoo!ショッピングとの違い、送料無料条件、デパコスのお得な買い方まで徹底解説。ランキングデータやポイント還元率を活用した実践ガイド。
+- [セール・キャンペーンお得情報](https://wowma.jp/guide/campaign-sale): au PAY マーケットのセールやキャンペーン、クーポン、ポイント還元の仕組みを解説。三太郎の日やタイムセールなど、お得に買い物するコツがわかります。
+- [Pontaポイント・au PAY 攻略ガイド](https://wowma.jp/guide/point-payment): au PAY マーケットでのPontaポイントの貯め方・使い方や、楽天・Yahooとの違いを解説。お得に買い物するための全手順をまとめた総合ガイドです。
+- [au PAY マーケットのよくある質問とサポート：返品・返金・領収書の発行方法](https://wowma.jp/guide/support-faq): au PAY マーケット利用時のよくある質問とサポート情報。キャンセル・返品手続き、商品未着時の対応、売れ筋ランキングの見方、領収書の発行方法まで網羅。
+- [au PAY マーケット「ライブTV」とは？視聴でクーポンやポイントを貰う方法](https://wowma.jp/answers/live-tv-coupon-points): au PAY マーケットのライブTV機能の仕組み、視聴でクーポンやPontaポイントがもらえる条件、お得に活用するコツを解説します。
+- [貯まったPontaポイントはローソンやau PAYコード決済でもそのまま使える？](https://wowma.jp/answers/ponta-points-use-lawson-aupay): au PAY マーケットで貯めたPontaポイントは、ローソンでの買い物やau PAYのコード決済でもそのまま使えます。共通ポイントとしての仕組みと注意点を解説。
+- [デパコス（ディオール・シャネル等）を安く買う方法とおすすめ優良ショップ](https://wowma.jp/answers/luxury-cosmetics-discount-shops): au PAY マーケットでディオールやシャネルなどのデパコスを安く買う方法を解説。24時間限定タイムセールやPontaパスの還元率、優良ショップの見分け方まで。
+- [韓国コスメはどっちが安い？Qoo10「メガ割」とau PAY マーケットのセールを徹底比較](https://wowma.jp/answers/qoo10-megawari-vs-au-pay-market-korean-cosmetics): Qoo10のメガ割とau PAY マーケットのセールで、韓国コスメを買うならどちらが安くなるか、割引方式やポイント還元の仕組みから徹底比較します。
+- [au PAY カード（ゴールド）でau PAY マーケットの還元率は何％？お得な特典を解説](https://wowma.jp/answers/au-pay-card-gold-market-point-return-rate): au PAY カード（ゴールド）をau PAY マーケットで利用した際のポイント還元率について解説。PontaパスやポイントUPセレクトとの組み合わせで還元率を最大化する方法や、適用条件をわかりやすく紹介します。
+- [au PAY カード利用でau PAY マーケットのポイント還元率はどうなる？お得な還元率アップの仕組み](https://wowma.jp/answers/au-pay-card-point-up-rate): au PAY カードでau PAY マーケットで買い物する際のポイント還元の仕組みと、Pontaパスやキャンペーンを組み合わせて還元率を最大化する方法を解説します。
+- [au PAY マーケットで領収書を発行する方法は？アプリ・ブラウザ別の手順を解説](https://wowma.jp/answers/au-pay-market-receipt-issue-method): au PAY マーケットで領収書を発行・ダウンロードする方法をアプリとブラウザ別に解説。購入履歴からの手順、ポイント利用時の注意点、発行できない場合の対処法まで紹介します。
+- [au PAY マーケットで売れ筋ランキングを見る方法・カテゴリ別の探し方](https://wowma.jp/answers/how-to-find-sales-ranking): au PAY マーケットの「お店のカテゴリ一覧」から売れ筋ランキングを探す手順を解説。細分化されたカテゴリで人気商品を絞り込む方法と、ランキングの活用コツを紹介します。
+- [au PAY マーケットに関するよくある質問：料金・Pontaパス・キャンペーンまとめ](https://wowma.jp/au-pay-market-faq): au PAY マーケットの利用料金、Pontaパスの月額費用と特典、お得なキャンペーンについてまとめたFAQ。Pontaポイントの賢い貯め方・使い方を解説します。
+- [au PAY マーケットの「買い得メンバーズ」の条件と、ポイントアップの仕組みをわかりやすく解説](https://wowma.jp/answers/q-1a9af0308990e4-ja): au PAY マーケットで高還元を実現する会員制度「Pontaパス」の条件や、ポイントアップの仕組みについて解説。ポイントUPセレクトやキャンペーン活用法を紹介します。
+- [au PAY マーケットで家電を買うならどこがおすすめ？保証や配送設置サービスはついてる？](https://wowma.jp/answers/q-b939a7035b4bf5-ja): au PAY マーケットでの家電購入のおすすめ店舗の探し方と、配送設置サービスや保証の確認ポイントを解説。ランキングやタイムセールの活用法も紹介。
