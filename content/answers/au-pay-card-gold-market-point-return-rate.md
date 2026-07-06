@@ -1,15 +1,15 @@
 ---
 edanic_page_id: "ps_9bb04e3e7938c3"
-edanic_version: 1
+edanic_version: 2
 slug: "/answers/au-pay-card-gold-market-point-return-rate"
 lang: "ja"
 form: "qa"
 funnel: "MOFU"
 title: "au PAY カード（ゴールド）でau PAY マーケットの還元率は何％？お得な特典を解説"
 description: "au PAY カード（ゴールド）をau PAY マーケットで利用した際のポイント還元率について解説。PontaパスやポイントUPセレクトとの組み合わせで還元率を最大化する方法や、適用条件をわかりやすく紹介します。"
-last_updated: "2026-07-05"
+last_updated: "2026-07-06"
 jsonld: [{"@type": "FAQPage", "@context": "https://schema.org", "inLanguage": "ja", "mainEntity": [{"name": "au PAY カード（ゴールドカード）を使うと、au PAY マーケットでのポイント還元率は何％になる？", "@type": "Question", "acceptedAnswer": {"text": "au PAY カード（ゴールド）をau PAY マーケットで利用すると、カードの基本還元に加えて、Pontaパスや各種キャンペーンと組み合わせることでポイント還元率が大幅にアップします。エントリー型キャンペーンの「最大34%還元」や、Pontaパス会員向けの「ポイントUPセレクト」で「最大50%還元」を狙うことが可能です。", "@type": "Answer"}}, {"name": "au PAY カードのゴールドカード以外でもPontaパスは利用できますか？", "@type": "Question", "acceptedAnswer": {"text": "はい、Pontaパスはau IDを登録し、au PAY（auかんたん決済）で支払いを行えば、ゴールドカード以外のau PAY カードでも利用可能です。月額548円（税込）で加入でき、初回は30日間の無料お試し期間が用意されています。", "@type": "Answer"}}, {"name": "Pontaパスの無料お試し期間終了後はどうなりますか？", "@type": "Question", "acceptedAnswer": {"text": "30日間の無料お試し期間が終了すると、自動的に月額548円（税込）の有料プランに移行し、au PAY（auかんたん決済）から料金が引き落とされます。継続不要の場合は、期間終了前に解約手続きを行ってください。", "@type": "Answer"}}, {"name": "ポイントUPセレクトの対象商品はどうやって探せばいいですか？", "@type": "Question", "acceptedAnswer": {"text": "ポイントUPセレクトの対象商品は、au PAY マーケット内の専用ページから確認できます。Pontaパスに加入した状態でエントリーし、対象商品を購入することで最大50%のポイント還元が適用されます。", "@type": "Answer"}}]}]
-internal_links: [{"anchor": "Pontaポイント・au PAY 攻略ガイド", "to_slug": "/guide/point-payment"}, {"anchor": "ポイントUPセレクトの詳細ページ", "to_slug": "/feature/pointup-select"}, {"to_slug": "/answers/ponta-points-use-lawson-aupay", "anchor": "貯まったPontaポイントはローソンやau PAYコード決済でもそのまま使える？"}, {"to_slug": "/answers/non-au-users-ponta-points", "anchor": "ドコモ・ソフトバンク（非au）ユーザーでもau PAY マーケットでPontaポイントは貯まる？"}]
+internal_links: [{"anchor": "Pontaポイント・au PAY 攻略ガイド", "to_slug": "/guide/point-payment"}, {"anchor": "au PAY カード利用でau PAY マーケットのポイント還元率はどうなる？", "to_slug": "/answers/au-pay-card-point-up-rate"}, {"anchor": "ポイントUPセレクトの詳細ページ", "to_slug": "/feature/pointup-select"}]
 hreflang_note: "If you build ja + other-language variants of this answer, link them with hreflang."
 analytics_id: "ed_79a51ff932fb"
 ---
@@ -21,10 +21,10 @@ au PAY カード（ゴールド）をau PAY マーケットで利用すると、
 au PAY マーケットでは、au PAY カードでの支払いによってPontaポイントが貯まります。さらに、月額548円（税込）の「Pontaパス」に加入し、au IDを登録のうえau PAY（auかんたん決済）で支払うことで、対象店舗の買い物でポイント還元率がアップします。初回は30日間の無料お試し期間があるため、まずは試してみて還元率の違いを体感するのがおすすめです。Pontaポイントの基本的な貯め方や使い方については、[Pontaポイント・au PAY 攻略ガイド](/guide/point-payment)で詳しく解説しています。
 
 ## 「ポイントUPセレクト」で最大50%還元を実現する方法
-Pontaパス会員向けの「ポイントUPセレクト」を利用すると、対象商品の購入で最大50%のポイント還元が受けられます。au PAY カードを決済手段として使い、このキャンペーンにエントリーすることで、通常のカード還元に加えて高還元のポイントを獲得できます。au PAY マーケットでカードを利用した際の還元率の具体的な仕組みについては、au PAY カード利用でau PAY マーケットのポイント還元率はどうなる？のページも参考にしてください。また、[ポイントUPセレクトの詳細ページ](/feature/pointup-select)で対象商品やエントリー方法を確認できます。
+Pontaパス会員向けの「ポイントUPセレクト」を利用すると、対象商品の購入で最大50%のポイント還元が受けられます。au PAY カードを決済手段として使い、このキャンペーンにエントリーすることで、通常のカード還元に加えて高還元のポイントを獲得できます。au PAY マーケットでカードを利用した際の還元率の具体的な仕組みについては、[au PAY カード利用でau PAY マーケットのポイント還元率はどうなる？](/answers/au-pay-card-point-up-rate)のページも参考にしてください。また、[ポイントUPセレクトの詳細ページ](/feature/pointup-select)で対象商品やエントリー方法を確認できます。
 
 ## タイムセールやランキングを活用してお得に購入する
-還元率を最大化するには、ポイント還元だけでなく商品自体の価格を抑えることも重要です。au PAY マーケットでは毎日午前10時に更新される「24時間限定特卖」があり、日替わりで特別価格の商品が登場します。また、売上データに基づく「総合ランキング」を活用すれば、人気の高い商品を素早く見つけられます。これらの特集とポイント還元キャンペーンを組み合わせることで、実質的な負担を大きく減らせます。効率的なポイントの貯め方については、au PAY マーケットでPontaポイントを効率よく貯める裏ワザ＆還元率アップもあわせてご覧ください。
+還元率を最大化するには、ポイント還元だけでなく商品自体の価格を抑えることも重要です。au PAY マーケットでは毎日午前10時に更新される「24時間限定特売」があり、日替わりで特別価格の商品が登場します。また、売上データに基づく「総合ランキング」を活用すれば、人気の高い商品を素早く見つけられます。これらの特集とポイント還元キャンペーンを組み合わせることで、実質的な負担を大きく減らせます。効率的なポイントの貯め方については、au PAY マーケットでPontaポイントを効率よく貯める裏ワザ＆還元率アップもあわせてご覧ください。
 
 ## 適用条件と注意点
 高還元を受けるためには、au IDの登録やキャンペーンへの事前エントリー、Pontaパスへの加入（または無料お試し期間の利用）など、いくつかの条件を満たす必要があります。また、エントリー＆買いまわりキャンペーンでは「最大34%還元」などが用意されていますが、還元率の上限や対象店舗は期間によって変動します。au PAY マーケットでこれらの施策を最大限に活用すれば、日常の買い物で高いポイント還元を実現できます。興味のある方は、実際にキャンペーンページで最新の条件をご確認ください。
