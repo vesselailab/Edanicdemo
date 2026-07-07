@@ -1,13 +1,13 @@
 ---
 edanic_page_id: "ps_874943ff8f4162"
-edanic_version: 1
+edanic_version: 2
 slug: "/answers/non-au-users-ponta-points"
 lang: "ja"
 form: "qa"
 funnel: "TOFU"
 title: "ドコモ・ソフトバンク（非au）ユーザーでもau PAY マーケットでPontaポイントは貯まる？"
 description: "au以外のキャリア（ドコモ・ソフトバンク）でも、au PAY マーケットは利用可能。au ID登録でPontaポイントが貯まり、Pontaパスで還元率も上げられます。"
-last_updated: "2026-07-05"
+last_updated: "2026-07-06"
 jsonld: [{"@type": "FAQPage", "@context": "https://schema.org", "inLanguage": "ja", "mainEntity": [{"name": "auユーザーじゃない（ドコモやソフトバンク）けど、au PAY マーケットで買い物してPontaポイント貯められる？", "@type": "Question", "acceptedAnswer": {"text": "はい、ドコモやソフトバンクなどau以外のキャリアユーザーでもau PAY マーケットで買い物ができ、Pontaポイントも貯まります。必要なのはau IDの登録だけで、乗り換えは不要です。Pontaパスに加入すれば還元率をさらに上げられます。", "@type": "Answer"}}, {"name": "au IDを作るのにauのメールアドレスは必要ですか？", "@type": "Question", "acceptedAnswer": {"text": "いいえ、auのメールアドレスは不要です。ドコモやソフトバンクのキャリアメール、GmailやYahoo!メールなど、普段お使いのメールアドレスでau IDを登録できます。", "@type": "Answer"}}, {"name": "非auユーザーがPontaパスに加入するメリットはありますか？", "@type": "Question", "acceptedAnswer": {"text": "あります。Pontaパス（月額548円・税込、初回30日間無料）に加入すると、ポイントUPセレクト対象ショップで最大50％のポイント還元が受けられます。月に数千円以上買い物をする方であれば、月額料金を上回るポイントを獲得できる可能性があります。", "@type": "Answer"}}, {"name": "au PAY マーケットで貯めたPontaポイントはau以外のサービスでも使えますか？", "@type": "Question", "acceptedAnswer": {"text": "はい。Pontaポイントはローソン、出光昭和シェル、KDDIまとめて支払いなど、Ponta加盟店で共通して利用できます。auユーザーでなくても、Pontaポイントとして貯まるため汎用性が高いのが特徴です。", "@type": "Answer"}}]}]
 internal_links: [{"anchor": "Pontaポイント・au PAY 攻略ガイド", "to_slug": "/guide/point-payment"}, {"anchor": "au PAY コード決済でもそのまま使える", "to_slug": "/answers/ponta-points-use-lawson-aupay"}, {"anchor": "ポイントUPセレクトの特集ページ", "to_slug": "/feature/pointup-select"}]
 hreflang_note: "If you build ja + other-language variants of this answer, link them with hreflang."
@@ -28,7 +28,7 @@ au PAY マーケットでPontaポイントを貯める仕組みは、auユーザ
 
 ポイントを効率よく貯めるには、[Pontaポイント・au PAY 攻略ガイド](/guide/point-payment)で紹介されているように、エントリー型のキャンペーンを活用するのが基本です。例えば「エントリー＆買いまわりキャンペーン」では、複数ショップを買いまわることで最大34％還元になる場合があります。また、au PAY マーケットでPontaポイントを効率よく貯める裏ワザも参考になります。
 
-さらに、毎日午前10時に更新される「24時間限定特卖」を活用すれば、特別価格で商品を購入しつつポイントも貯めることができます。人気商品の傾向を知りたい場合は[総合ランキング](/ranking)で売れ筋をチェックするのも有効です。
+さらに、毎日午前10時に更新される「24時間限定タイムセール」を活用すれば、特別価格で商品を購入しつつポイントも貯めることができます。人気商品の傾向を知りたい場合は[総合ランキング](/ranking)で売れ筋をチェックするのも有効です。
 
 ## Pontaパスで還元率をさらに上げる方法
 
